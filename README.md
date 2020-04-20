@@ -1,9 +1,3 @@
-# Logisticregression-using-numpy
-Logistic Regression using Numpy 
-The LR models acts as a binary classifier to classify an image as a cat or non-cat using sigmoid activation function.
+# Amazon-Review-Sentimental-Analysis
 
-
-
-
-
-"# Amazon-Review-Sentimental-Analysis" 
+Sentimental Analysis using Regular Expressions on a dataset containing reviews of a product in Amazon
